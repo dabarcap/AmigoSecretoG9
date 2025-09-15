@@ -33,4 +33,4 @@ Para ello se deben seguir los siguientes pasos:
 Daniel Abarca
 
 * [GitHub](https://github.com/dabarcap)
-* [Linkedln](www.linkedin.com/in/dabarcap)
+* [Linkedln](https://www.linkedin.com/in/dabarcap)
